@@ -1,0 +1,5 @@
+pickle==0.7.5
+nltk==3.8.1
+numpy==1.26.4
+gensim==4.3.3
+pyvi==0.1.1
