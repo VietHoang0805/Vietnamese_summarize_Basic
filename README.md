@@ -8,6 +8,7 @@ Có thể chạy đoạn code dưới đây để cài các thư viện cần đ
 pip install -r requirements.txt
 ```
 # Sau khi cài các thư viện cần thiện có thể chạy notebook Main.ipynb
+Ở notebook có takenote các bước làm có thể bấm vào nút run all để chạy sau khi đã cài các thư viện thỏa mãn
 
 # Kiến thức sử dụng
 
